@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "adamquaile",
-    "repositoryName": "hubpress.io",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"adamquaile","repositoryName":"hubpress.io","branch":"gh-pages"},"site":{"title":"adamquaile.com","url":"http://adamquaile.github.io/hubpress.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"http://adamquaile.github.io/hubpress.io/themes/Casper"}}
